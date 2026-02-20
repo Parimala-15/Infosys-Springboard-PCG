@@ -1,0 +1,98 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# API Keys & Secrets
+*_KEY
+*_SECRET
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# FAISS Index (can be large)
+faiss_index
+faiss_index_binary
+*.faiss
+
+# Cached Metadata
+metadata.pkl
+*.pkl
+*.pickle
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Temporary Files
+*.tmp
+*.temp
+.tmp/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+*.cache
+
+# Node (if frontend in same repo)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Don't ignore but keep sensitive data private
+!.env.example

@@ -1,0 +1,93 @@
+job title,role,job description,education,skills,experience_type,text
+,software_engineer,,,,fresher,"Software Development Engineer (SDE)
+Design, develop, test, and maintain software applications. Work with data structures, algorithms,
+and system design to build scalable and efficient solutions. Collaborate with teams to solve
+real-world problems using programming languages and modern frameworks."
+,data_analyst,,,,fresher,"Data Analyst
+Collect, clean, and analyze data to generate insights. Use tools like Excel, SQL, Python, and
+visualization platforms to identify trends and support data-driven decision-making."
+,hr,,,,fresher,"Human Resources (HR)
+Manage recruitment, employee relations, onboarding, performance management, and company
+policies. Ensure a positive workplace culture and support organizational growth."
+,marketing,,,,fresher,"Marketing Executive
+Plan and execute marketing campaigns to promote products or services. Analyze customer
+behavior, manage social media, create content, and support brand growth through digital and
+offline channels."
+,intern,,,,fresher,"Intern (Technical / Non-Technical)
+Assist team members in daily tasks and projects. Learn practical skills, gain industry exposure, and
+contribute under guidance while developing professional and technical abilities."
+,software_engineer,,,,fresher,"Software Development Engineer (SDE)
+Job Description: A Software Development Engineer is responsible for designing, developing,
+testing, and maintaining software applications. The role involves writing clean and efficient code,
+solving technical problems, and working with teams to build scalable and reliable systems.
+Key Responsibilities:
+- Develop and maintain software applications
+- Write clean, efficient, and reusable code
+- Debug and fix software issues
+- Collaborate with designers and other developers
+- Participate in code reviews and testing
+Required Skills:
+- Programming languages (Java, Python, C++, JavaScript, etc.)
+- Data Structures and Algorithms
+- Problem-solving skills
+- Basic knowledge of databases and APIs"
+,data_analyst,,,,fresher,"Data Analyst
+Job Description: A Data Analyst is responsible for collecting, cleaning, and analyzing data to help
+organizations make informed decisions. The role involves identifying patterns, preparing reports,
+and presenting insights using data analysis tools.
+Key Responsibilities:
+- Collect and organize data from multiple sources
+- Clean and preprocess raw data
+- Analyze data to identify trends and patterns
+- Prepare reports and dashboards
+- Support decision-making with data insights
+Required Skills:
+- Excel, SQL, and basic Python/R
+- Data visualization tools (Power BI, Tableau, etc.)
+- Analytical and logical thinking
+- Basic statistics knowledge"
+,hr,,,,fresher,"Human Resources (HR)
+Job Description: A Human Resources professional manages employee-related activities such as
+recruitment, onboarding, and employee engagement. The role focuses on maintaining a positive
+work environment and supporting organizational policies.
+Key Responsibilities:
+- Assist in recruitment and interview processes
+- Manage employee records and documentation
+- Support onboarding and training activities
+- Handle employee queries and communication
+- Ensure compliance with company policies
+Required Skills:
+- Communication and interpersonal skills
+- Organizational and documentation skills
+- Basic knowledge of HR processes
+- Problem-solving and teamwork"
+,marketing,,,,fresher,"Marketing Executive
+Job Description: A Marketing Executive is responsible for promoting products or services through
+online and offline marketing strategies. The role focuses on understanding customer needs,
+creating campaigns, and increasing brand awareness.
+Key Responsibilities:
+- Plan and execute marketing campaigns
+- Manage social media platforms and content
+- Conduct market research and analysis
+- Assist in branding and promotional activities
+- Track campaign performance and engagement
+Required Skills:
+- Communication and creativity
+- Basic digital marketing knowledge
+- Social media and content creation skills
+- Analytical and presentation skills"
+,intern,,,,fresher,"Intern (Technical / Non-Technical)
+Job Description: An Intern supports team members in day-to-day tasks while gaining practical
+industry experience. The role focuses on learning, skill development, and assisting with ongoing
+projects under supervision.
+Key Responsibilities:
+- Assist in assigned tasks and projects
+- Learn tools, technologies, or processes
+- Support team members as required
+- Complete tasks within deadlines
+- Follow organizational guidelines
+Required Skills:
+- Willingness to learn
+- Basic technical or domain knowledge
+- Communication and teamwork
+- Time management skills"
